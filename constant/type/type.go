@@ -1,0 +1,14 @@
+package types
+
+
+
+
+const (
+	OTP_REGISTER            = 1
+	OTP_FORGET_PASSWORD     = 2
+	OTP_PHONE_NUMBER_CHANGE = 3
+	OTP_VERIFICATION        = 4
+	TOKEN_LOGIN             = 12
+	TOKEN_FORGET_PASSWORD   = 13
+	TOKEN_UPDATE_PROFILE    = 14
+)
